@@ -48,6 +48,6 @@ Collate:
     'align.r'
     'padding.r'
     'z.r'
-URL: https://github.com/r-lib/gtable
+URL: http://gtable.r-lib.org, https://github.com/r-lib/gtable
 BugReports: https://github.com/r-lib/gtable/issues
 VignetteBuilder: knitr
